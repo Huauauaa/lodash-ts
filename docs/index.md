@@ -1,12 +1,12 @@
 ---
 hero:
-  title: library
+  title: Lodash-ts
   description: lodash via typescript
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: Guide
+      link: /guide
+    - text: Github
+      link: https://github.com/Huauauaa/lodash-ts
 features:
   - title: Hello
     emoji: 💎
@@ -18,5 +18,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-lodash-ts
