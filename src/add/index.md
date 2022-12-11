@@ -1,7 +1,6 @@
 ---
 group:
   title: Math
-order: 1
 title: add
 ---
 
@@ -19,6 +18,6 @@ title: add
 ## Example
 
 ```ts
-add(6, 4);
+add(6, 4)
 // => 10
 ```

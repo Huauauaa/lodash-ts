@@ -2,10 +2,10 @@
 group:
   title: Function
 order: 1
-title: after
+title: before
 ---
 
-> The opposite of [before](../before/index.md); this method creates a function that invokes func once it's called n or more times.
+> The opposite of [before](); this method creates a function that invokes func once it's called n or more times.
 
 ## Arguments
 
